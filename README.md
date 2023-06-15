@@ -1,6 +1,6 @@
 # NLU-SA2
 
-## NLU course - Final project - Sentiment Analysis 2
+## NLU course - Sentiment Analysis 2
 
 In the [report](https://github.com/VMDL/NLU-SA2/blob/main/Report.pdf), you can find a brief topic introduction, an overview of the project, the experiments and the performances that have been measured.
 
