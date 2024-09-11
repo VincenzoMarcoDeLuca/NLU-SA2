@@ -7,3 +7,7 @@ In the [report](https://github.com/VMDL/NLU-SA2/blob/main/Report.pdf), you can f
 In the [Jupyter notebook](https://github.com/VMDL/NLU-SA2/blob/main/NLU_SA2.ipynb), you can find the last experiments realized (e.g. Shallow models using SkLearn, Vaeder-NLTK, CNN/RNN-based architectures, sentiment analysis with and without object removal) on multiple datasets.
 
 In the [Jupyter notebook](https://github.com/VMDL/NLU-SA2/blob/main/NLU_SA2.ipynb) you can also find the log associated to the results, but to deepen them, you can find the performances of some experiments in [Wandb projects](https://wandb.ai/provoneciaone5)
+
+
+
+CIAOCIAOCIAO
